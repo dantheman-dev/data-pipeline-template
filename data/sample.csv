@@ -1,0 +1,11 @@
+First Name,Last Name,Age,Email,Score
+Alice,Smith,30,alice@example.com,95.5
+Bob,Jones,,bob@example.com,87.0
+Charlie,Brown,25,charlie@example.com,
+,White,35,diana@example.com,92.0
+Eve,Green,28,eve@example.com,78.5
+Frank,,40,frank@example.com,88.0
+Grace,Hall,22,grace@example.com,73.5
+Hank,Lee,,hank@example.com,
+Iris,King,31,iris@example.com,91.0
+Jack,Wright,27,jack@example.com,85.0
